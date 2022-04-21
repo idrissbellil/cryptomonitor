@@ -1,0 +1,12 @@
+.envrc
+build/
+dist/
+*.egg-info
+*.pyc
+.hypothesis/
+.idea/
+.DS_Store
+data/
+.mypy_cache/
+.cache
+.config/*.yaml
